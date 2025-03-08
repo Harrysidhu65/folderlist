@@ -1,0 +1,20 @@
+.folder, .document {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .folder:hover, .document:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .create-folder input, .create-document input {
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .create-folder button, .create-document button {
+    padding: 5px;
+  }
+  
