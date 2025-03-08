@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Harrysidhu65/folderlist.git/static/css/main.4e37fc27.css",
+    "main.js": "/Harrysidhu65/folderlist.git/static/js/main.08a8b8e6.js",
+    "static/js/453.64512fd7.chunk.js": "/Harrysidhu65/folderlist.git/static/js/453.64512fd7.chunk.js",
+    "index.html": "/Harrysidhu65/folderlist.git/index.html",
+    "main.4e37fc27.css.map": "/Harrysidhu65/folderlist.git/static/css/main.4e37fc27.css.map",
+    "main.08a8b8e6.js.map": "/Harrysidhu65/folderlist.git/static/js/main.08a8b8e6.js.map",
+    "453.64512fd7.chunk.js.map": "/Harrysidhu65/folderlist.git/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e37fc27.css",
+    "static/js/main.08a8b8e6.js"
+  ]
+}
